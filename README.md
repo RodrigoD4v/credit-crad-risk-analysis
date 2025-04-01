@@ -56,7 +56,8 @@ credit_card_approval/
 - data/
   - application_record.csv
   - credit_record.csv
-- credit_card_approval.ipynb
+- notebooks/
+  - credit_card_approval.ipynb
 - README.md
 
 
