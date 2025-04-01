@@ -45,3 +45,18 @@ O modelo foi avaliado utilizando as métricas mencionadas, demonstrando boa perf
 ### Instalação:
 ```bash
 pip install pandas numpy scipy matplotlib seaborn scikit-learn
+```
+### Execução:
+1. Baixe os conjuntos de dados `application_record.csv` e `credit_record.csv` e coloque-os na pasta `data`.
+2. Execute o notebook Jupyter `credit_card_approval.ipynb` para reproduzir a análise e o modelo.
+
+## Estrutura do Projeto
+
+credit_card_approval/
+- data/
+  - application_record.csv
+  - credit_record.csv
+- credit_card_approval.ipynb
+- README.md
+
+
